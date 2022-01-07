@@ -69,7 +69,7 @@
     <bigquery.version>v2-rev20210410-1.31.0</bigquery.version>
     <protobuf-util.version>3.11.1</protobuf-util.version>
     <proto-google-cloud-datastore-v1.version>0.85.0</proto-google-cloud-datastore-v1.version>
-    <protobuf.version>3.11.1</protobuf.version>
+    <protobuf.version>3.16.1</protobuf.version>
     <findbugs.version>3.0.1</findbugs.version>
     <guava.version>26.0-jre</guava.version>
     <json.version>20200518</json.version>
